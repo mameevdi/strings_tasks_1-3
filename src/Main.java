@@ -29,6 +29,6 @@ public class Main {
         System.out.println("Задача 3"); //написать программу, которая заменяет символ «ё» на символ «е»
         String fullName = "Иванов Семён Семёнович";
         String nameWithoutYo = fullName.replace('ё', 'е');
-        System.out.println("ФИО сотрудника — " + nameWithoutYo);
+        System.out.println("Данные ФИО сотрудника — " + nameWithoutYo);
     }
 }
